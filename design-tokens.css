@@ -1,0 +1,24 @@
+/* CONTEXT FILE FOR AI - DO NOT DEPLOY 
+   These are the design tokens for Legacy Advisors.
+   Use these CSS variables in all generated snippets.
+*/
+
+:root {
+    /* Brand Palette [cite: 75, 76] */
+    --legacy-navy: #121c29;       /* Trust, Stability */
+    --legacy-gold: #ecc35a;       /* Prestige, Value */
+    --legacy-gold-light: #f4e3b2; /* Hover states */
+    --legacy-white: #ffffff;
+    --legacy-off-white: #fdfcf9;  /* Paper texture feel */
+    --legacy-text-dark: #121c29;
+    --legacy-text-light: #ffffff;
+
+    /* Typography [cite: 82] */
+    --font-heading: 'Canela', serif;
+    --font-body: 'Inter', sans-serif;
+
+    /* Spacing & Layout */
+    --section-padding: 80px 20px;
+    --container-max-width: 1200px;
+    --border-radius: 4px;
+}
