@@ -1,0 +1,67 @@
+# LEGACY ADVISORS - FAQ CONTENT LIBRARY
+
+## 1. What does an M&A advisor actually do?
+An M&A advisor guides business owners through one of the most complex financial transactions of their lives — selling or acquiring a company. Their role goes beyond matchmaking buyers and sellers. A great advisor prepares your business for sale, helps establish a valuation, builds financial narratives, manages due diligence, and negotiates terms that protect your interests. They also run a competitive process to create “FOMO” among buyers — driving multiple offers to increase deal value. At Legacy Advisors, Kris Jones and Ed Button emphasize that an advisor should act as your strategic quarterback, coordinating legal, accounting, and wealth teams so you can focus on running your business.
+
+## 2. When should I hire an M&A advisor?
+Ideally, you should engage an M&A advisor 12 to 24 months before you plan to sell. Early engagement allows them to identify valuation gaps, address red flags, and help position your company for maximum value. Waiting until you receive an unsolicited offer or feel burned out can put you on your back foot — what Kris calls being “exit reactive.” By starting early, you can become “exit ready,” with clean books, documented operations, diversified revenue, and low founder dependency — all factors that improve valuation and deal terms.
+
+## 3. What’s the difference between an M&A advisor and a business broker?
+While both help facilitate company sales, they typically operate at different levels. A business broker focuses on smaller, often local deals (usually under $5 million in value), working much like a real estate agent. An M&A advisor, on the other hand, handles more complex mid-market transactions — usually $5M to $250M in enterprise value — involving multiple bidders, due diligence teams, and deal structures that include earn-outs, holdbacks, or stock components. Advisors also provide deeper financial, legal, and strategic guidance. As Kris and Ed often note, “Brokers sell; advisors maximize outcomes.”
+
+## 4. How do I know if my M&A advisor is qualified?
+Start by asking about their deal experience, not just credentials. How many deals have they closed in your industry? What were the outcomes? Request references from past clients. Qualified advisors should demonstrate deep financial literacy, negotiation skills, and familiarity with both strategic and private equity buyers. Look for advisors who can speak fluently about EBITDA adjustments, quality of earnings, and post-closing integration — not just marketing your business. At Legacy Advisors, both co-hosts emphasize that confidence, integrity, and preparation are as critical as technical skill in a good advisor.
+
+## 5. How does an M&A advisor get paid?
+Most advisors charge a retainer fee (sometimes called a work fee) plus a success fee when the transaction closes. The retainer covers upfront work such as preparing marketing materials and valuations, while the success fee — typically a percentage of the sale price — aligns incentives. For mid-market deals, fees often range between 2%–6% of transaction value, tapering as deal size increases. Be wary of advisors who work on contingency only; without a retainer, they may lack motivation for deep preparation. A transparent fee structure signals professionalism and alignment with your success.
+
+## 6. What makes a good fit between a founder and an M&A advisor?
+Chemistry and trust matter as much as credentials. You’ll be working closely for months, so choose someone who listens, communicates clearly, and aligns with your vision. A good advisor balances emotional intelligence with financial rigor — understanding not just your company’s numbers but your personal goals for life after exit. As Kris Jones shared in Second Chances, selling a business is an emotional rollercoaster, so your advisor must be steady under pressure and confident enough to lead when emotions run high.
+
+## 7. How can an advisor increase my company’s valuation?
+An M&A advisor increases value by shaping perception and competition. They identify strategic buyers who see unique synergies, help you normalize EBITDA, and tell your growth story in ways that justify a higher multiple. They’ll also prepare professional marketing materials like a confidential information memorandum (CIM) and financial model, then orchestrate a structured bidding process to create leverage. Ed Button often explains that when multiple qualified buyers are at the table, “you’re not negotiating down — you’re negotiating up.” Advisors know how to turn your operational excellence into valuation premiums.
+
+## 8. What should I expect during the selection process?
+Selecting an advisor should feel like a job interview — for both parties. Start with an introductory call, then evaluate their approach to valuation, marketing, and buyer outreach. Ask for a written engagement proposal outlining scope, timeline, and fees. You should also assess their responsiveness and how they communicate complex ideas. The best advisors demonstrate value even before you hire them — offering insights into how to increase readiness or mitigate risk. If they can’t explain their process clearly, they’re not ready to lead your transaction.
+
+## 9. Should I choose an advisor with industry experience?
+Generally, yes. An advisor familiar with your industry understands valuation benchmarks, buyer landscapes, and common deal structures. For example, a software advisor knows the importance of ARR (annual recurring revenue) and churn rates; an energy-sector advisor knows how to value hard assets and regulatory exposure. However, don’t confuse industry familiarity with fit — experience should complement, not replace, strong negotiation skill. As Ed Button notes from his oil and gas roll-up experience, “The right advisor knows when to bring experts in, not pretend to be one.”
+
+## 10. What red flags should I watch out for when hiring an M&A advisor?
+Avoid advisors who overpromise valuations, lack transparency on fees, or pressure you into signing exclusivity agreements prematurely. Be cautious of those who rely solely on their network without showing a clear process for buyer outreach or deal management. Poor communication, vague deliverables, or no references are other warning signs. As Kris Jones often says, “If an advisor can’t explain how they’ll protect your downside as well as grow your upside, keep looking.” You need a strategist — not a salesperson — who treats your deal like their own.
+
+## 11. How do I know if my company is “big enough” for an M&A advisor?
+If your business consistently generates over $1–2 million in EBITDA or could realistically sell for $5 million or more, it’s likely time to work with an M&A advisor. At this level, the complexity of due diligence, deal structuring, and buyer negotiations exceeds what most founders or brokers can handle. However, even smaller companies can benefit from early consultation — especially if you plan to grow through acquisition or exit in the next few years. Advisors can help you identify valuation drivers, clean up financials, and position your company to move from “unsellable” to “strategic target” status.
+
+## 12. What’s the difference between a financial buyer and a strategic buyer?
+A financial buyer (like a private equity firm or family office) looks for stable cash flow and a return on investment, while a strategic buyer (often a competitor or larger company) seeks synergies — such as cost savings, cross-selling, or market expansion. The right M&A advisor understands how to tailor your story to each type. For instance, they’ll show private equity buyers your margin growth potential, while presenting strategic buyers with how your acquisition accelerates their footprint. As Kris Jones notes on the podcast, “Buyers don’t just buy spreadsheets; they buy stories” — and good advisors know how to tell them.
+
+## 13. How long does the M&A process usually take?
+While every deal is unique, the average mid-market transaction takes 6 to 12 months from start to close. The preparation phase (cleaning up financials, building materials, identifying buyers) can take several months, followed by buyer outreach, management meetings, and due diligence. A disciplined M&A advisor will manage this timeline aggressively, keeping momentum through weekly communication and milestone tracking. Delays usually happen when the seller’s documentation is incomplete or when emotions cloud decision-making. The best advisors — like those at Legacy Advisors — treat process discipline as a competitive advantage, ensuring “speed without sloppiness.”
+
+## 14. What role does confidentiality play when hiring an advisor?
+Confidentiality is non-negotiable in M&A. Leaks can spook employees, customers, and competitors — potentially damaging your business before the deal even closes. A qualified advisor uses a blind teaser to gauge market interest without revealing your identity and ensures all interested parties sign non-disclosure agreements (NDAs) before accessing detailed materials. They’ll also manage communication carefully to prevent word from spreading internally until the time is right. As Ed Button points out, “You can’t negotiate from strength if the market knows you’re for sale.” Protecting information is part of preserving leverage.
+
+## 15. How involved will I need to be during the process?
+Very. Even with a great advisor, founders play a critical role — providing accurate data, participating in buyer meetings, and making key strategic decisions. However, your advisor should shield you from the day-to-day chaos of deal management. They’ll handle financial modeling, due diligence requests, and negotiation details so you can continue running the business. As Kris says in The M&A Checklist episode, “Buyers don’t buy spreadsheets; they buy confidence.” Keeping your business performance strong during the process is one of the best ways to protect your valuation.
+
+## 16. What’s the most common mistake founders make when choosing an M&A advisor?
+The biggest mistake is hiring based on flattery instead of fit. Many founders choose the advisor who gives them the highest initial valuation estimate, only to be disappointed later when the market disagrees. Overpromising and underdelivering is common among inexperienced advisors. Another mistake is picking someone without a clear deal process or industry credibility. A strong advisor doesn’t just tell you what you want to hear — they tell you what you need to hear. As Kris and Ed emphasize, humility, honesty, and realism always lead to better outcomes than hype and ego.
+
+## 17. How do advisors help during due diligence?
+Due diligence is the most stressful phase of M&A — and a good advisor is your lifeline through it. They’ll organize your data room, prepare financial schedules, coordinate with accountants and attorneys, and ensure consistent communication with buyers. Their job is to keep the process moving, minimize surprises, and frame issues constructively so they don’t derail the deal. As Ed Button says, “Continuity is everything. Once buyers smell blood in the water, they dig deeper.” A disciplined advisor anticipates those questions and keeps the narrative steady.
+
+## 18. What questions should I ask when interviewing an M&A advisor?
+Ask specific, measurable questions that test both experience and approach:
+– How many deals like mine have you closed in the past three years?
+– What’s your average closing multiple in my industry?
+– How do you create competition among buyers?
+– Can you walk me through your valuation process?
+– How do you handle confidentiality and communication during diligence?
+Look for clarity and consistency in their answers. A vague or overly salesy response is a red flag. As Kris often says, “If they can’t explain their playbook clearly, they don’t have one.”
+
+## 19. Should I hire a local advisor or a national firm?
+It depends on your goals. Local advisors can offer personal touch and community ties, especially for smaller or regionally focused businesses. National or specialized firms tend to have larger buyer networks, sophisticated deal teams, and deeper financial expertise — ideal for companies with multi-state or global footprints. What matters most is alignment with your size, industry, and personality. Kris and Ed often note that Legacy Advisors itself bridges that gap — offering the hands-on service of a boutique with the reach of a national firm, ensuring founders don’t sacrifice access for attention.
+
+## 20. How do do I know I can trust my M&A advisor?
+Trust is built through transparency, consistency, and results. Your advisor should explain their process in detail, provide regular updates, and never leave you wondering what comes next. They should welcome questions and never hide behind jargon. Ask for references, check their reputation, and evaluate whether they prioritize your interests over quick wins. As Kris shared on Legacy Advisors Podcast, “Confidence attracts confidence — but it must be earned through clarity.” When you find an advisor who listens deeply, communicates clearly, and acts with integrity, you’ll know you’ve found the right partner.
